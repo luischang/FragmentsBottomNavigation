@@ -12,6 +12,12 @@ class MusicaFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+        //TODO: Asignar el adapter al recyclerView
+
+        //TODO: Crear el listado de datos para las canciones
+
+
+
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_musica, container, false)
     }
