@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FragmentsBottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_principal">Principal</string>
+    <string name="title_registro">Registro</string>
+    <string name="title_musica">Música</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleprincipal">Fragmentos en Android</string>
+    <string name="valetfullname">Full name</string>
+    <string name="valrbtmale">Male</string>
+    <string name="valrbtfemale">Female</string>
+    <string name="valrbtothers">Others</string>
+    <string name="valchklicense">License?</string>
+    <string name="valchkcar">Car?</string>
+    <string name="valbtnsave">SAVE</string>
+
+    <string-array name="country_array">
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Uruguay</item>
+        <item>Colombia</item>
+        <item>Ecuador</item>
+        <item>Peru</item>
+        <item>Venezuela</item>
+        <item>Chile</item>
+        <item>Bolivia</item>
+    </string-array>
+
+</resources>
